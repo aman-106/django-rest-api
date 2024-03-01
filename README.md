@@ -1,2 +1,2 @@
-# djnago-rest-api
+# django-rest-api
  
