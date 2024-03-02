@@ -1,10 +1,11 @@
 alembic==0.9.9
 Django==1.11.17
+django-cors-headers==3.2.1
 djangorestframework==3.8.2
 Mako==1.1.6
 MarkupSafe==2.0.1
 psycopg2==2.9.1
-python-dateutil==2.9.0
+python-dateutil==2.9.0.post0
 python-editor==1.0.4
 pytz==2024.1
 six==1.16.0
